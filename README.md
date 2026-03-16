@@ -1,4 +1,4 @@
-<div align="center">
+
 ![HologramUI](https://github.com/user-attachments/assets/e0e909a3-2417-4444-af28-f5d7b602e3cc)
 
 # HologramScreen
