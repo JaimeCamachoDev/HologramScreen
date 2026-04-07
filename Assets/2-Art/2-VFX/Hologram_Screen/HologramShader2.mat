@@ -67,9 +67,9 @@ Material:
     m_Colors:
     - _Color: {r: 0, g: 5.3179154, b: 5.656854, a: 1}
     - _Color_B: {r: 0, g: 0.36419988, b: 1, a: 1}
-    - _Color_G: {r: 0, g: 1, b: 0.5042522, a: 1}
+    - _Color_G: {r: 0, g: 0.66694784, b: 1, a: 1}
     - _Color_R: {r: 0, g: 0.2734739, b: 0.3962264, a: 1}
     - _Dir: {r: 0.68, g: 1, b: 1, a: 0}
-    - _FogColor: {r: 0.062428318, g: 0.062428318, b: 0.062428318, a: 1}
+    - _FogColor: {r: 0, g: 0.032535933, b: 0.03589682, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
