@@ -23,13 +23,7 @@ Este repositorio funciona como base reutilizable para:
 ## Instalación y uso
 
 1. **Clona** este repositorio:
-
-   ```bash
-   git clone https://github.com/<tu-usuario>/HologramScreen.git
-   ```
-
 2. Abre Unity Hub y selecciona **Add project from disk**.
 3. Elige la carpeta del repositorio.
 4. Abre el proyecto con **Unity 6000.3.10f1**.
 5. Carga la escena `Assets/3-Scenes/HologramScreen.unity` para comenzar.
-
