@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5e817e4be4ed0a648aeb9b69b58d6543
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283505
+  packageName: Sci-Fi Hologram Screen Shader
+  packageVersion: 1.2.0
+  assetPath: Assets/SciFiHoloScreen-Shader/Prefabs/SM_SciFiHoloScreen_BlackFloor_Demo.prefab
+  uploadId: 810628

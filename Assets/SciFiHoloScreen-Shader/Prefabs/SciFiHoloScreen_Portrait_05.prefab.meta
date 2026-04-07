@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 44f3f8c61fdd0c344bad32b9950b0556
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283505
+  packageName: Sci-Fi Hologram Screen Shader
+  packageVersion: 1.2.0
+  assetPath: Assets/SciFiHoloScreen-Shader/Prefabs/SciFiHoloScreen_Portrait_05.prefab
+  uploadId: 810628

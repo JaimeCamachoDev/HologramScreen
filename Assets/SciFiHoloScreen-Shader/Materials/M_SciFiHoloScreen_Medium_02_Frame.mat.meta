@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7c7742a7ffde5f44ea29bb9cb52fe05d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283505
+  packageName: Sci-Fi Hologram Screen Shader
+  packageVersion: 1.2.0
+  assetPath: Assets/SciFiHoloScreen-Shader/Materials/M_SciFiHoloScreen_Medium_02_Frame.mat
+  uploadId: 810628

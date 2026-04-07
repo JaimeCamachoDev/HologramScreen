@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ee5d2be6f35696948b58c4037fd5fb7e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283505
+  packageName: Sci-Fi Hologram Screen Shader
+  packageVersion: 1.2.0
+  assetPath: Assets/SciFiHoloScreen-Shader/Prefabs/ShaderDemo_RGBATexture.prefab
+  uploadId: 810628

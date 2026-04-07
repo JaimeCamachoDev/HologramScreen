@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a4f475b4b4614945bc12673d6a22c17
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283505
+  packageName: Sci-Fi Hologram Screen Shader
+  packageVersion: 1.2.0
+  assetPath: Assets/SciFiHoloScreen-Shader/Materials/M_SciFiHoloScreen_RGBA_Frame_Additive.mat
+  uploadId: 810628

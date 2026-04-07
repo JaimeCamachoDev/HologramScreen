@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d91e3f09c8e611440a2b208ab30b47f2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283505
+  packageName: Sci-Fi Hologram Screen Shader
+  packageVersion: 1.2.0
+  assetPath: Assets/SciFiHoloScreen-Shader/Materials/M_SciFiHoloScreen_Trim_Demo.mat
+  uploadId: 810628

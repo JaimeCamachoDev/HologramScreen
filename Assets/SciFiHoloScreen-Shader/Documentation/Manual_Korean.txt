@@ -1,0 +1,11 @@
+==============================
+구매해주셔서 감사합니다!
+==============================
+
+원하는 렌더 파이프라인 프로젝트에서 아래 경로의 URP, HDRP 유니티 패키지를 이용해 간편하게 업그레이드할 수 있습니다:
+SciFiHoloScreen-Shader/_Upgrade
+
+📘 한국어 문서:
+https://www.maxkillstudios.com/ko/unity/scifi-hologram-screen-shader
+
+– MaxKill Studios

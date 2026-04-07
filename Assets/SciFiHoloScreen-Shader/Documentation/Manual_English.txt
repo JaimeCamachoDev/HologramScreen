@@ -1,0 +1,13 @@
+==============================
+Thank you for your purchase!
+==============================
+
+Use the URP and HDRP UnityPackages inside:
+SciFiHoloScreen-Shader/_Upgrade
+
+To upgrade easily in your project.
+
+📘 Online Manual:
+https://www.maxkillstudios.com/unity/scifi-hologram-screen-shader
+
+– MaxKill Studios

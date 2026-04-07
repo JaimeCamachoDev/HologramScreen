@@ -1,0 +1,12 @@
+==============================
+ご購入ありがとうございます!
+==============================
+
+対象のレンダーパイプラインプロジェクトで、
+以下のパスにある URP および HDRP UnityPackage を使用することで簡単にアップグレードできます：
+SciFiHoloScreen-Shader/_Upgrade
+
+📘 日本語ドキュメント:
+https://www.maxkillstudios.com/ja/unity/scifi-hologram-screen-shader
+
+– MaxKill Studios

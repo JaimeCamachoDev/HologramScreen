@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2d2bcc1f48dba9a4fb3745889d8ff1ba
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283505
+  packageName: Sci-Fi Hologram Screen Shader
+  packageVersion: 1.2.0
+  assetPath: Assets/SciFiHoloScreen-Shader/Scenes/Overview.unity
+  uploadId: 810628

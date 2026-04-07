@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 06723e3f216578344a2720a2aa4c13c3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283505
+  packageName: Sci-Fi Hologram Screen Shader
+  packageVersion: 1.2.0
+  assetPath: Assets/SciFiHoloScreen-Shader/Materials/M_SciFiHoloScreen_Portrait_02_Additive.mat
+  uploadId: 810628

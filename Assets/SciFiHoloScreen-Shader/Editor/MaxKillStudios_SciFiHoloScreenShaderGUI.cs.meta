@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 40a23e2417f03db45bd3c07c485ddc2c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283505
+  packageName: Sci-Fi Hologram Screen Shader
+  packageVersion: 1.2.0
+  assetPath: Assets/SciFiHoloScreen-Shader/Editor/MaxKillStudios_SciFiHoloScreenShaderGUI.cs
+  uploadId: 810628

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b26073770e0a9a94185ceaf306968d3c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283505
+  packageName: Sci-Fi Hologram Screen Shader
+  packageVersion: 1.2.0
+  assetPath: Assets/SciFiHoloScreen-Shader/Materials/M_SciFiHoloScreen_SpriteSheetMode.mat
+  uploadId: 810628

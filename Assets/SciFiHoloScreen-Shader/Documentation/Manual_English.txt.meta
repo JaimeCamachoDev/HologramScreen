@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 15abbf5c07f5f00408571265a1d5a8af
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283505
+  packageName: Sci-Fi Hologram Screen Shader
+  packageVersion: 1.2.0
+  assetPath: Assets/SciFiHoloScreen-Shader/Documentation/Manual_English.txt
+  uploadId: 810628

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d1a0fee55a1e9ae4ba8d85d694b48c72
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283505
+  packageName: Sci-Fi Hologram Screen Shader
+  packageVersion: 1.2.0
+  assetPath: Assets/SciFiHoloScreen-Shader/Documentation/Manual_Korean.txt
+  uploadId: 810628

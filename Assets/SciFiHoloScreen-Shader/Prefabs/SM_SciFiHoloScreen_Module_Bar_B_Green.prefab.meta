@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a92a57f46b25f4d49a14fe1aea98e9f2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283505
+  packageName: Sci-Fi Hologram Screen Shader
+  packageVersion: 1.2.0
+  assetPath: Assets/SciFiHoloScreen-Shader/Prefabs/SM_SciFiHoloScreen_Module_Bar_B_Green.prefab
+  uploadId: 810628

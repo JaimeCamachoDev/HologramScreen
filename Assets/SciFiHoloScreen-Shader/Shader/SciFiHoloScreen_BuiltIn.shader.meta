@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2e1bff0c4903d8043ac52efb17fe9158
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283505
+  packageName: Sci-Fi Hologram Screen Shader
+  packageVersion: 1.2.0
+  assetPath: Assets/SciFiHoloScreen-Shader/Shader/SciFiHoloScreen_BuiltIn.shader
+  uploadId: 810628

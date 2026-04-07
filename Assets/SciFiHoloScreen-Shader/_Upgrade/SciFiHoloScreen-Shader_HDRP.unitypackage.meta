@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 16142bdbbdfb0074d9de434ed29d2c9b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283505
+  packageName: Sci-Fi Hologram Screen Shader
+  packageVersion: 1.2.0
+  assetPath: Assets/SciFiHoloScreen-Shader/_Upgrade/SciFiHoloScreen-Shader_HDRP.unitypackage
+  uploadId: 810628

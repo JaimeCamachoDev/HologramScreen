@@ -1,0 +1,11 @@
+==============================
+感谢您的购买!
+==============================
+
+在目标渲染管线项目中，使用以下路径下的 URP 与 HDRP UnityPackage 即可轻松完成升级：
+SciFiHoloScreen-Shader/_Upgrade
+
+📘 中文文档:
+https://www.maxkillstudios.com/zh/unity/scifi-hologram-screen-shader
+
+– MaxKill Studios

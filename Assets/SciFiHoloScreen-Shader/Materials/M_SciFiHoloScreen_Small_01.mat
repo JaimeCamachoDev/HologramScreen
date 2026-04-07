@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_SciFiHoloScreen_Small_01
+  m_Shader: {fileID: 4800000, guid: 2e1bff0c4903d8043ac52efb17fe9158, type: 3}
+  m_ValidKeywords:
+  - _BACKDROPSCALEOPTION_INDEPENDENT
+  - _HOLOGRAMSCALEOPTION_MATCHOBJECT
+  m_InvalidKeywords:
+  - _ADD_PRECOMPUTED_VELOCITY
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    MotionVector: User
+  disabledShaderPasses:
+  - DistortionVectors
+  - TransparentBackface
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BackdropTexture:
+        m_Texture: {fileID: 2800000, guid: ffa26bc0fb98e814b83a0c0db44d78e4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HologramMaskTexture:
+        m_Texture: {fileID: 2800000, guid: c108f0d77578a1147a71792b679cf388, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AddPrecomputedVelocity: 1
+    - _AlphaChannelDepth: 0
+    - _AlphaCutoff: 0.5
+    - _AlphaCutoffEnable: 0
+    - _AlphaDstBlend: 0
+    - _AlphaSrcBlend: 1
+    - _BChannelDepth: 0.1
+    - _BackdropColorIntensity: 1
+    - _BackdropDepth: 0.25
+    - _BackdropFogDensity: 0.25
+    - _BackdropFogDensityRemapMax: 1
+    - _BackdropFogDensityRemapMin: 0
+    - _BackdropScaleOption: 1
+    - _BackdropTiling: 4
+    - _BlendMode: 0
+    - _Columns: 1
+    - _CullMode: 2
+    - _CullModeForward: 2
+    - _DepthMultiplier: 0.4
+    - _DistortionEnable: 0
+    - _DistortionOnly: 0
+    - _DoubleSidedEnable: 0
+    - _DoubleSidedGIMode: 0
+    - _DoubleSidedNormalMode: 2
+    - _DstBlend: 0
+    - _EnableFogOnTransparent: 1
+    - _FogDensity: 0.2
+    - _FogDensityRemapMax: 1
+    - _FogDensityRemapMin: 0
+    - _GChannelDepth: 0.05
+    - _HologramScale: 1
+    - _HologramScaleOption: 0
+    - _OpaqueCullMode: 2
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _RChannelDepth: 0
+    - _RandomBackdropColorBlend: 1
+    - _RandomBackdropColorIntensity: 1
+    - _RandomColorSwizzleMode: 0
+    - _RandomHologramSaturation: 0
+    - _RandomHologramTintBlend: 1
+    - _RandomHologramTintIntensity: 1
+    - _ReceiveShadows: 1
+    - _ReceivesSSR: 1
+    - _ReceivesSSRTransparent: 0
+    - _RenderQueueType: 1
+    - _RequireSplitLighting: 0
+    - _Rows: 1
+    - _SpriteSheetID: 1
+    - _SpriteSheetMode: 0
+    - _SrcBlend: 1
+    - _StencilRef: 0
+    - _StencilRefDepth: 0
+    - _StencilRefDistortionVec: 4
+    - _StencilRefGBuffer: 2
+    - _StencilRefMV: 32
+    - _StencilWriteMask: 6
+    - _StencilWriteMaskDepth: 8
+    - _StencilWriteMaskDistortionVec: 4
+    - _StencilWriteMaskGBuffer: 14
+    - _StencilWriteMaskMV: 40
+    - _SupportDecals: 1
+    - _SurfaceType: 0
+    - _TransparentBackfaceEnable: 0
+    - _TransparentCullMode: 2
+    - _TransparentSortPriority: 0
+    - _TransparentWritingMotionVec: 0
+    - _TransparentZWrite: 0
+    - _UseAlphaChannel: 0
+    - _UseRandomBackdropColor: 0
+    - _UseRandomHologramTint: 0
+    - _UseRandomSpriteSheetID: 0
+    - _UseShadowThreshold: 0
+    - _ZTestDepthEqualForOpaque: 3
+    - _ZTestGBuffer: 4
+    - _ZTestTransparent: 4
+    - _ZWrite: 1
+    - __dirty: 1
+    m_Colors:
+    - _AlphaChannelColor: {r: 6.498019, g: 0, b: 0, a: 1}
+    - _BChannelColor: {r: 0, g: 0.9370937, b: 3.9999995, a: 1}
+    - _BackdropColor: {r: 5.992155, g: 0.1796936, b: 0, a: 1}
+    - _BackdropFogColor: {r: 0, g: 0.9370937, b: 3.9999995, a: 1}
+    - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FogColor: {r: 0, g: 0.4620726, b: 1, a: 1}
+    - _FrameTintColor: {r: 1, g: 1, b: 1, a: 1}
+    - _GChannelColor: {r: 4, g: 1.3221425, b: 0, a: 1}
+    - _HologramTintColor: {r: 1, g: 1, b: 1, a: 1}
+    - _RChannelColor: {r: 2, g: 2, b: 2, a: 1}
+    - _UnlitColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
