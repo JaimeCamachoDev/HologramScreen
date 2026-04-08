@@ -1,5 +1,6 @@
 
 ![HologramUI](https://github.com/user-attachments/assets/e0e909a3-2417-4444-af28-f5d7b602e3cc)
+![412475476-9df478dc-94d9-4c1a-b3d3-659d6414bb12](https://github.com/user-attachments/assets/09628dcf-1aaa-499b-9484-3e2bab6ccc89)
 
 # HologramScreen
 
